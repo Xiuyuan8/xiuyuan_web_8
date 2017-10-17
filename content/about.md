@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: "2017-10-17-Vancouver"
+date: "2017-10-17"
 ---
 
 Do justice, love mercy, and walk humbly with God. 
