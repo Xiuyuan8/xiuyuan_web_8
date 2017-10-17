@@ -1,7 +1,7 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
-date: 2015-07-23T21:13:14-05:00
+title: "Greg Dignon"
+author: "Xiuyuan Li"
+date: 2017-10-06T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
@@ -12,26 +12,29 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 # R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Greg is a PhD student in Chemical Engineering with a focus on intrinsically disordered proteins, and is a good friend of mine. Both of us are music lovers, although he likes heavy metal, while I prefer classical and romantic. But it seems that we have the same taste for Christian music.
 
-You can embed an R code chunk like this:
+# Interview 
 
-```{r cars}
-summary(cars)
-fit <- lm(dist ~ speed, data = cars)
-fit
-```
+# Could you give us a summary for your research interest? 
+Simulations of unfolded and intrinsically disordered proteins. The overall goal is to better understand processes involved in the progression of some diseases like ALS, or type 2 diabetes.
 
-# Including Plots
+# What is your favorite art form? 
+Music is my favorite art form. I guess the reason is that music is the most scientific art form for me. It’s about patterns, timing, frequency of the sound waves, etc. It’s very mathematical. When you learn the basic theory, harmony or counterpoint for example, you can just keep them in mind, and then think about how to use these to express specific emotions.
+I play guitar and piano, and I also compose pieces. My motivation for doing these things is for my own enjoyment, to be able to serve the worship team at church, and to have more opportunities to connect with people. The big picture for that is to introduce Jesus through music.
 
-You can also embed plots. See Figure \@ref(fig:pie) for example:
+# Could you share some thoughts of understanding of Science of Art?
+I am admittedly not a knowledgeable artist. I think my approach toward art (mainly writing music) is a more scientific approach toward art, so that helps with this question, though you would likely get a very different answer from someone who is not a scientist.
+I think the largest difference between science and art is the motivation behind it. I personally do science because it is something I'm good at and I want to make the world a better place to live in, among other reasons. When I am writing music, it is largely for my own enjoyment. I think I prefer it that way because I can make the music exactly how I want it, rather than how a record company, or the listeners want it.
+I think there is somewhat of a scientific approach that I take in writing music. Much of what I write combines the musical styling of bands and artists that I have heard. If I want to write in the style of a specific band, I try to learn a lot of songs that the band has written, and that will help me generate new ideas. It is kind of like learning a new field of science in order to solve a specific problem, or come up with a new theory building upon older theories.
 
-```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
-par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
-  col = c('#0292D8', '#F7EA39', '#C4B632'),
-  init.angle = -50, border = NA
-)
-```
+# Could you share some thoughts of understanding of Art of Science?
+Looking up the definition of art, it says "the expression or application of human creative skill and imagination, [...] to be appreciated primarily for their beauty or emotional power." 
+The first part addresses the involvement of creativity and imagination, which are probably not necessary, but immensely helpful when it comes to scientific research. The whole premise of research is to figure out the unknown. We are looking for hard facts, which prove (or less preferably, disprove) our ideas in new and creative ways that have not been used before, thus making a good imagination very helpful. 
+The ending of the definition talks about the motivation behind art, which is where I think the biggest difference is between art and science. I think that without a greater purpose in life, i.e. God, science is not really artistic in this sense. What I mean by this is that the primary motivation for one who does not know God would likely be some humanistic prompting, such as curing diseases or improving sustainability of our resources, but just for the benefit of humankind. As a Christian, one has the additional motivation that we are exploring God's creation, and can appreciate the amount of thought and love that he put into making everything. I believe having a faith in God can enhance one's experience with scientific research in this way. 
+
+# How faith helps harmonize art and science? How God helps with work?
+I see both art and science as a gift from God.
+How is science a gift? I think it is awesome that so much of creation reflects His nature, and that of the kingdom of heaven. For example, one of the parables Jesus tells in Matthew 13:24-30 about the wheat and weeds that look similar. I used to think that he just noticed that they looked similar and came up with this parable from that. I realized that it would make more sense if God had intentionally created the wheat and the weeds to look similar so that He could tell this parable. When thinking this way, science gets a lot more exciting as you can make connections to the kingdom of heaven with so many scientific phenomena.
+How is art a gift? I don't think art's existence is necessary for human survival. I'm thinking life would be pretty boring without art, but that could just be because I can't even imagine what that would be like. One of my favorite songs is about how music is a gift from God: The Gift of Music, by Theocracy.
+As for how God helps me with work: I guess I mentioned earlier that science is a lot more fulfilling when you are doing it not just for betterment of the world, but to enjoy it, and enjoy the connections with God and the kingdom of heaven. I have personally experience this just from learning about biochemistry, how the sheer number of reactions and interactions happening within the cell occur in just the right quantity for the cell to function and not die. The idea that a person could put together something like this, much less design all the reactions and interactions themselves seems like a huge task, and I just marvel at how God thought of it all and made it work so perfectly.
