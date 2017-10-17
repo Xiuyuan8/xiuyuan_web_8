@@ -10,7 +10,7 @@ tags: ["R Markdown", "plot", "regression"]
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# R Markdown
+# Background
 
 Greg is a PhD student in Chemical Engineering with a focus on intrinsically disordered proteins, and is a good friend of mine. Both of us are music lovers, although he likes heavy metal, while I prefer classical and romantic. But it seems that we have the same taste for Christian music.
 
